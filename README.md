@@ -1,4 +1,4 @@
 HadoopCode
 ==========
 
-some example code of Hadoop 
+some examples code of Hadoop 
